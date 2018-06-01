@@ -12,10 +12,10 @@
   ], 
   "abstract": "", 
   "zoom_extent": [
-    1596410.778, 
-    6475437.664, 
-    1603416.946, 
-    6478108.822
+    1596621.154, 
+    6475438.346, 
+    1603259.288, 
+    6477969.188
   ], 
   "fees": "conditions unknown", 
   "message": null, 
@@ -27,25 +27,25 @@
       "visible": true, 
       "unix": true, 
       "extent": [
-        1597719.78256726, 
-        6475501.262932664, 
+        1597697.7691085492, 
+        6475498.60432607, 
         1602182.672746132, 
-        6477586.07275257
+        6477606.850674369
       ], 
       "geom_type": "POLYGON", 
       "time_attribute": "UTconvert", 
-      "name": "budovy-a", 
-      "output_datetime_mask": "YYYY-MM-DD HH:mm", 
+      "name": "\u0158e\u017e", 
+      "output_datetime_mask": "YYYY-MM-DD", 
       "serverName": "", 
       "queryable": false, 
       "time_values": [
         1309471200, 
-        1502920800
+        1507500000
       ], 
       "hidden": false, 
       "provider_type": "ogr", 
       "type": "vector", 
-      "original_time_attribute": "PlatiOd", 
+      "original_time_attribute": "platiod", 
       "metadata": {
         "keyword_list": "", 
         "abstract": "", 
@@ -59,15 +59,15 @@
       "visible": true, 
       "unix": true, 
       "extent": [
-        1598206.7761342244, 
-        6477051.581221866, 
-        1599854.557281334, 
-        6477908.92973699
+        1598188.665777269, 
+        6477022.160930455, 
+        1599858.26786507, 
+        6477908.92973698
       ], 
       "geom_type": "POLYGON", 
       "time_attribute": "UTconvert", 
-      "name": "budovy-c", 
-      "output_datetime_mask": "YYYY-MM-DD", 
+      "name": "v\u00fdzkumn\u00fd \u00fastav", 
+      "output_datetime_mask": "DD-MM-YYYY HH:mm", 
       "serverName": "", 
       "queryable": false, 
       "time_values": [
@@ -77,7 +77,7 @@
       "hidden": false, 
       "provider_type": "ogr", 
       "type": "vector", 
-      "original_time_attribute": "platiod", 
+      "original_time_attribute": "platido", 
       "metadata": {
         "keyword_list": "", 
         "abstract": "", 
@@ -91,20 +91,20 @@
       "visible": true, 
       "unix": true, 
       "extent": [
-        1597734.4936150098, 
-        6475502.729435845, 
-        1601040.3728726937, 
-        6477397.812025448
+        1599629.988409367, 
+        6476137.747130298, 
+        1601516.3784450248, 
+        6476766.813280786
       ], 
       "geom_type": "POLYGON", 
       "time_attribute": "UTconvert", 
-      "name": "budovy-b", 
-      "output_datetime_mask": "DD-MM-YYYY HH:mm", 
+      "name": "Husinec", 
+      "output_datetime_mask": "DD-MM-YYYY", 
       "serverName": "", 
       "queryable": false, 
       "time_values": [
         1309471200, 
-        1507500000
+        1502920800
       ], 
       "hidden": false, 
       "provider_type": "ogr", 
@@ -133,9 +133,9 @@
     {
       "abstract": "Default layers configuration", 
       "visible_overlays": [
-        "budovy-a", 
-        "budovy-c", 
-        "budovy-b"
+        "\u0158e\u017e", 
+        "v\u00fdzkumn\u00fd \u00fastav", 
+        "Husinec"
       ], 
       "title": "Default topic"
     }
@@ -150,18 +150,18 @@
     "decimal_places": 2
   }, 
   "extent": [
-    1597719.78256726, 
-    6475501.262932664, 
+    1597697.7691085492, 
+    6475498.60432607, 
     1602182.672746132, 
-    6477908.92973699
+    6477908.92973698
   ], 
   "online_resource": "", 
   "canvas_color": "#ffffffff", 
   "composer_templates": [], 
   "access_constrains": "None", 
   "plugin_version": "1.1", 
-  "publish_date_unix": 1526805175, 
-  "publish_date": "Sun May 20 10:32:55 2018", 
+  "publish_date_unix": 1527756560, 
+  "publish_date": "Thu May 31 10:49:20 2018", 
   "expiration": "", 
   "contact_person": "", 
   "extent_buffer": 0.0, 
@@ -170,10 +170,10 @@
       "name": "Blank", 
       "visible": true, 
       "extent": [
-        1597719.78256726, 
-        6475501.262932664, 
+        1597697.7691085492, 
+        6475498.60432607, 
         1602182.672746132, 
-        6477908.92973699
+        6477908.92973698
       ], 
       "resolutions": [
         4.777314267158508, 
